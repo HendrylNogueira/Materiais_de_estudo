@@ -1,0 +1,22 @@
+por partes
+
+- operadores lógicos
+e, ou, não
+
+Já aprendi eles na programação em Python, e o sentido é o mesmo, a lógica para aplicá-los é a mesma.
+
+
+- alguns outros operadores
+não e, não ou, ou exclusivo
+
+Esses ficaram não tão bem definidos, pq é a primeira vez que vejo eles, embora seja bem intuitivo a aplicação deles.
+
+Acho que um circuito lógico é desenvolvido com o mesmo raciocínio de um algorítmo
+
+
+Tabela verdade
+
+Todas as combinações possíveis e seus resultados
+
+a e b = ab
+

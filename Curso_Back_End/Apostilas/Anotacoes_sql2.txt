@@ -1,0 +1,54 @@
+-- WHERE
+
+Esse parâmetro serve para filtrar as informações do BANCO
+
+SELECT nome, qtd_estoque FROM livros WHERE edicao = 1;
+
+Nesse exemplo acima, vai ser mostrado os elementos NOME e qtd_estoque, onde a edição é igual a 1
+
+Podemos uzar os operadores "=", "<", ">", "<=", ">=".
+
+Podemos filtrar per um valor STR.
+
+SELECT qtd_estoque, preco FROM livros WHERE nome = "O nome do vento";
+
+Outro exemplo que pode ser utilizado:
+
+SELECT * FROM livros WHERE nome = "O nome do vento";
+
+_________
+
+Float
+
+Para números float, o caso é um pouco diferente, o número guardado no banco, normalmente tem mais casas decimais do que o informado, portanto para selecionar um número específico, precisamos arredondar esse valor com a função "round()":
+
+SELECT *
+FROM livros
+WHERE round(preco, 2) = 18.65
+ORDER BY preco;
+
+No primeiro parametro passamos a coluna e no segundo parâmetro, quantas casas decimais desejamos.
+
+
+ESSE CASO SÓ É NECESSÁRIO QUANDO DESEJAMOS UM VALOR ESPECÍFICO, CASO FOR UTILIZADO "<", ">" NÃO É NECESSÁRIO A FUNÇÃO "round()"
+
+________
+
+Datas
+
+Para datas, podemos filtrar normalmente, porém o valor precisa ser declarado como STR:
+
+
+SELECT * FROM livros WHERE dt_expedicao <= "2013-06-15";
+
+Para filtrar por um ano, dia ou mês específico, precisamos de outra função, "date_format()"
+
+Primeiro parâmetro passamos a coluna do BD, no segundo passamos o formula:
+
+SELECT * FROM livros WHERE date_format(dt_expedicao, "%Y") >= 2011;
+
+
+
+
+
+

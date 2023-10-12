@@ -1,0 +1,14 @@
+Olá alunos,
+
+Na atividade de estudos 01 da disciplina de Arquitetura é necessário realizar uma pesquisa, portanto é essencial colocar as referências no final da atividade. Segue exemplos de como colocar as referências:
+
+Livro:
+
+Pascutti, Maria Cristina Dadalto; Freitas; Aparecida Janaina de; Gasparotti, Talita Tonsic; Pedroso, Victor de Marqui. Engenharia de Software. Maringá-PR: Unicesumar, 2019. [Unidade V, página 193]?
+
+Site:
+
+CROSOFTEN. Qual a importância do Banco de Dados para a sua empresa. Julho, 2021.
+Disponível em: https://crosoften.com/qual-a-importancia-do-banco-de-dados-para-a-sua-empresa/ acesso em: 03 de out de 2022.
+
+Prof Amanda Melo.

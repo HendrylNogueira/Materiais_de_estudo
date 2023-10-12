@@ -1,0 +1,13 @@
+Python
+
+SQL
+
+Git e Github
+
+API
+
+Django ou CherryPy
+
+Escalabilidade
+
+Segurança (certificados, criptografia)

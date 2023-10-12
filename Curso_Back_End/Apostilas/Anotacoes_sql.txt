@@ -1,0 +1,28 @@
+-- DISTINCT
+
+Essa "função", serve para selecionar apenas os valores diferentes, então valores repetidos, não são mostrados.
+
+-- LIMIT
+
+É semelhante à um parâmetro, onde podemos limitar a quantidade de linhas 
+
+SELECT * FROM pessoas LIMIT 5;
+
+SELECT nome, sobrenome FROM pessoas LIMIT 10;
+
+-- ORDER BY
+
+Ordena os dados por alfabetica ou crescente
+
+- SELECT edicao FROM livros ORDER BY 1;
+
+Da forma abaixo, será levado em consideração o primeiro parâmetro primeiro e posteriormente o segundo parâmetro:
+
+- SELECT nome, edicao FROM livros ORDER BY 1, 2;
+
+Para mostrar de forma decrescente, fazemos assim:
+
+- SELECT nome, edicao FROM livros ORDER BY 1 DESC;
+
+- SELECT nome, edicao FROM livros ORDER BY edicao ASC, nome DESC;
+

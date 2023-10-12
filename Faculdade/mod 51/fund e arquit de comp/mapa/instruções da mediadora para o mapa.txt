@@ -1,0 +1,15 @@
+Olá alunos, para desenhar os circuitos lógicos sugerimos o software Logisin. Ele é gratuito e bem intuitivo. Segue link para download da ferramenta e vídeo tutorial de como utilizar.
+
+Download: https://sourceforge.net/projects/logisimevolution/
+
+Como utilizar o software:  https://youtu.be/32ritDV6XxU
+
+O software não precisa ser instalado, basta fazer o download e executar.
+
+Precisa ter o Java instalado no computador para funcionar.
+
+Postei o software no MATERIAL DA DISCIPLINA para download também.
+
+Aproveitem o material!
+
+Prof Amanda Melo.
