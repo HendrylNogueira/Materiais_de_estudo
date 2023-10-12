@@ -1,2 +1,6 @@
 # Materiais_de_Estudo
- Materiais de estudo faculdade e cursos
+ Materiais de estudo:
+ - Faculdade;
+ - Curso em Vídeo;
+ - Udemy;
+ - Outros.
