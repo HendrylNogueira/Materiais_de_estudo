@@ -1,0 +1,14 @@
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.exe
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.deps.json
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.runtimeconfig.json
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.dll
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.pdb
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.dll
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\refint\PrimeiroProjeto.dll
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.pdb
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.genruntimeconfig.cache
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\ref\PrimeiroProjeto.dll
