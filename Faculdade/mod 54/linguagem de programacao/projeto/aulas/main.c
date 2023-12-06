@@ -9,5 +9,6 @@ int main()
     scanf("%s", nome);
 
     printf("Seu nome e: %s", nome);
+    printf(" ");
     return 0;
 }
