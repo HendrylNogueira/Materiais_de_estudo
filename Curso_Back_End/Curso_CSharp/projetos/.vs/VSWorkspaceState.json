@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PrimeiroProjeto",
-    "\\PrimeiroProjeto\\PrimeiroProjeto\\obj",
-    "\\test2\\test2",
-    "\\tipos_de_dados\\tipos_de_dados"
+    "\\exercicios\\exercicio3",
+    "\\exercicios\\exercicio3\\exercicio3",
+    "\\PrimeiroProjeto\\PrimeiroProjeto"
   ],
-  "SelectedNode": "\\exercicios",
+  "SelectedNode": "\\PrimeiroProjeto",
   "PreviewInSolutionExplorer": false
 }

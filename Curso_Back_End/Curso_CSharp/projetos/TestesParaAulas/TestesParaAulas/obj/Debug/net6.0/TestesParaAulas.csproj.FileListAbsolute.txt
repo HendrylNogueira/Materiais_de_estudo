@@ -1,0 +1,14 @@
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\Curso_CSharp\projetos\TestesParaAulas\TestesParaAulas\bin\Debug\net6.0\TestesParaAulas.exe
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\Curso_CSharp\projetos\TestesParaAulas\TestesParaAulas\bin\Debug\net6.0\TestesParaAulas.deps.json
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\Curso_CSharp\projetos\TestesParaAulas\TestesParaAulas\bin\Debug\net6.0\TestesParaAulas.runtimeconfig.json
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\Curso_CSharp\projetos\TestesParaAulas\TestesParaAulas\bin\Debug\net6.0\TestesParaAulas.dll
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\Curso_CSharp\projetos\TestesParaAulas\TestesParaAulas\bin\Debug\net6.0\TestesParaAulas.pdb
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\Curso_CSharp\projetos\TestesParaAulas\TestesParaAulas\obj\Debug\net6.0\TestesParaAulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\Curso_CSharp\projetos\TestesParaAulas\TestesParaAulas\obj\Debug\net6.0\TestesParaAulas.AssemblyInfoInputs.cache
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\Curso_CSharp\projetos\TestesParaAulas\TestesParaAulas\obj\Debug\net6.0\TestesParaAulas.AssemblyInfo.cs
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\Curso_CSharp\projetos\TestesParaAulas\TestesParaAulas\obj\Debug\net6.0\TestesParaAulas.csproj.CoreCompileInputs.cache
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\Curso_CSharp\projetos\TestesParaAulas\TestesParaAulas\obj\Debug\net6.0\TestesParaAulas.dll
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\Curso_CSharp\projetos\TestesParaAulas\TestesParaAulas\obj\Debug\net6.0\refint\TestesParaAulas.dll
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\Curso_CSharp\projetos\TestesParaAulas\TestesParaAulas\obj\Debug\net6.0\TestesParaAulas.pdb
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\Curso_CSharp\projetos\TestesParaAulas\TestesParaAulas\obj\Debug\net6.0\TestesParaAulas.genruntimeconfig.cache
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\Curso_CSharp\projetos\TestesParaAulas\TestesParaAulas\obj\Debug\net6.0\ref\TestesParaAulas.dll

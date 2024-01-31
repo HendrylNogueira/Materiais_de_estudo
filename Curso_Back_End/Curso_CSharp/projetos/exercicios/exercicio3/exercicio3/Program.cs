@@ -6,7 +6,7 @@
         {
             int a, b, c, d, diferenca;
 
-            Console.WriteLine("Digite o promeiro valor: ");
+            Console.WriteLine("Digite o primeiro valor: ");
             a = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite o segundo valor: ");
@@ -15,7 +15,7 @@
             Console.WriteLine("Digite o terceiro valor: ");
             c = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Digite o terceiro valor: ");
+            Console.WriteLine("Digite o quarto valor: ");
             d = int.Parse(Console.ReadLine());
 
             diferenca = (a * b) - (c * d);
