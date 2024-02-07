@@ -1,0 +1,4 @@
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\projetos\tiposdedados\tiposdedados\obj\Debug\net6.0\tiposdedados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\projetos\tiposdedados\tiposdedados\obj\Debug\net6.0\tiposdedados.AssemblyInfoInputs.cache
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\projetos\tiposdedados\tiposdedados\obj\Debug\net6.0\tiposdedados.AssemblyInfo.cs
+C:\Users\hendr\OneDrive\Documentos\Materiais_de_estudo_GitHub\Curso_Back_End\projetos\tiposdedados\tiposdedados\obj\Debug\net6.0\tiposdedados.csproj.CoreCompileInputs.cache
