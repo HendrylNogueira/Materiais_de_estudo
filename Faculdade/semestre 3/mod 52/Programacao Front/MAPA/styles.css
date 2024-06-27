@@ -1,0 +1,86 @@
+#cabecalho{
+    background-color: #7c0118;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    width: 100%;
+    padding: 1px;
+    
+}
+
+#mapa{
+    border: 1px solid black;
+    margin: 15px;
+    background-color: #fcb1bf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    font-size: 13px;
+}
+
+#name{
+    border: 1px solid black;
+    background-color: #fcb1bf;
+    color: rgb(0, 0, 0);
+    margin: 15px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#divimagem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+}
+
+#imagem1{
+    width: 275px;
+    height: 200px;
+    margin: 4px;
+    justify-content: left;
+}
+
+#imagem2{
+    width: 275px;
+    height: 200px;
+    margin: 4px;
+    justify-content: center;
+}
+
+#imagem3{
+    width: 275px;
+    height: 200px;
+    margin: 4px;
+    justify-content: right;
+}
+
+main{
+    background-color: #fcb1bf6b;
+    color: rgb(0, 0, 0);
+    width: 100%;
+    padding: 1px;
+}
+
+#formulario{
+    text-align: left;
+
+}
+
+#divformulario{
+    width: 395px;
+    margin: 10px;
+    
+}
+
+#botao{
+    text-align: right;
+}
+
+#mulheres{
+    width: 888888px;
+}
