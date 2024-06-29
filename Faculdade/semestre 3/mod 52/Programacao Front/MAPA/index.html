@@ -8,35 +8,56 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header id="cabecalho">
 
-        <div id="mapa">
-            <h1>Mapa</h1>
-        </div>
-
-        <div id="name">
-            <h2>Calculadora de churrasco</h2>
-        </div>
+    <div class="conteiner">
+        
+        <section id="cabecalho">
+            <div id="mapa">
+                <h1>Mapa</h1>
+            </div>
+            <div id="name">
+                <h2>Calculadora de churrasco</h2>
+            </div>
+        </section>
 
         <div id="divimagem">
-            <img id="imagem1" src="images/churrasco.jpg" alt="imagem de churrasco">
-            <img id="imagem2" src="images/churrasco2.jpg" alt="imagem de churrasco2">
-            <img id="imagem3" src="images/churrasco3.png" alt="imagem de churrasco3">
+            <img id="imagem1" src="images/churrasco.jpeg" alt="imagem de churrasco">
+            <img id="imagem2" src="images/churrasco2.jpeg" alt="imagem de churrasco2">
+            <img id="imagem3" src="images/churrasco3.jpeg" alt="imagem de churrasco3">
         </div>
 
-    </header>
-
-    <main>
-        
         <div id="divformulario">
-            <form id="formulario">
-                <p><label>Digite a quantidade de homens: <input id="homens" type="number"  name="query"></label></p>
-                <p id="mulheres"><label>Digite a quantidade de mulheres: <input type="number" name="query"></label></p>
-                <p id="criancas"><label>Digite a quantidade de crianças: <input type="number" name="query"></label></p>
-                <p id="botao"><button type="submit" onclick="funcao()"> Calcular</button></p>
+            <form action="" id="formulario">
+                <label>Digite a quantidade de homens: <br> 
+                    <input id="inputhomens" type="text">
+                </label>
+
+                <label>Digite a quantidade de mulheres: <br> 
+                    <input id="inputmulheres" type="text">
+                </label>
+
+                <label>Digite a quantidade de crianças: <br> 
+                    <input id="inputcriancas" type="text">
+                </label>
+                <button id="button" type="submit"> Calcular</button>
             </form>
         </div>
-    </main>
+
+        <section>
+            <h2 id="titulo_lista">Para essa quantidade de pessoas, será necessário os seguintes:</h2>
+        </section>
+
+        <div class="divoutput">
+            <ul id="listaOutput">
+                <li id="outputBovina">0.00 Kg de carne bovina</li>
+                <li id="outputFrango">0.00 Kg de carne frango</li>
+                <li id="outputLinguica">0.00 Kg de carne linguiça</li>
+                <li id="outputRefrigerante">0.00 L de refrigerante</li>
+                <li id="outputCerveja">0.00 Kg de carne cerveja</li>
+            </ul>
+        </div>
+
+    </div>
 
 </body>
 </html>
